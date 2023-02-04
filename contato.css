@@ -1,3 +1,8 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
 header{
 	background: #BBBBBB;
 	padding: 20px 0;
@@ -98,7 +103,7 @@ td, th{
 /* /Main*/
 
 footer{
-	background: url(./assets/bg.jpg);
+	background: url(/assets/bg.jpg);
 	text-align: center;
 	padding: 40px 0;
 } 
