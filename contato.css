@@ -98,7 +98,7 @@ td, th{
 /* /Main*/
 
 footer{
-	background: url(/imagens/bg.jpg);
+	background: url(./assets/bg.jpg);
 	text-align: center;
 	padding: 40px 0;
 } 
