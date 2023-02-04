@@ -95,15 +95,19 @@ thead{
     font-weight: bold;
 }
 
-td, th{
+table td, th{
     border: 1px solid #000000;
     padding: 8px 15px;
+}
+
+fieldset{
+    border: none;
 }
 
 /* /Main*/
 
 footer{
-	background: url(/assets/bg.jpg);
+	background: url(assets/bg.jpg);
 	text-align: center;
 	padding: 40px 0;
 } 
