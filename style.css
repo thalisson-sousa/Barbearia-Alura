@@ -245,7 +245,7 @@ td, th {
 	margin: 2em auto;
 }
 
-@media screen and  (max-width: 480px){
+@media screen and  (max-width: 860px){
 
 	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
 		width: auto;
